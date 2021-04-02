@@ -21,7 +21,7 @@ Move package folder to ~/catkin_ws/src :
 $ cd TurtleBotBasicDraw
 $ mv homework ~/catkin_ws/src
 ```
-At final, make your packages and use **rosrun** to run the package:
+Finally, make your packages and use **rosrun** to run the package:
 
 ```bash
 $ catkin_make
