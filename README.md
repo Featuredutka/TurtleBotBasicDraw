@@ -8,7 +8,7 @@ ROS package based on turtlebot3. Models a robot with differential drive.
 - [x]  Publishes user-format messages for debugging
 
 ## Installation
-Before instalation make sure you have **matplotlib** library installed
+Before installation make sure you have **matplotlib** library installed
 
 Clone repo to your home folder
 
